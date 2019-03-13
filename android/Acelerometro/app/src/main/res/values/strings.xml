@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AcelerometroSD</string>
+    <string name="botao_enviar">Enviar</string>
+    <string name="coord_x">Coordenada X</string>
+    <string name="coord_y">Coordenada Y</string>
+    <string name="coord_z">Coordenada Z</string>
+    <string name="valor_x">Valor X</string>
+    <string name="valor_y">Valor Y</string>
+    <string name="valor_z">Valor Z</string>
+    <string name="valor_speed">Speed:</string>
+    <string name="image_description">SpeedImage</string>
+    <string name="botao_iniciar">Iniciar</string>
+    <string name="botao_pausar">Pausar</string>
+</resources>
